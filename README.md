@@ -1,2 +1,1 @@
-# windows10-etkinlestirme
-Windows 10 Kullananlar İçin Tek Tıkla Windows Etkinleştirme TÜM Windows 10 Sürümlerinde Geçerli!
+# Windows Etkinleştir.bat'a 2 kere tıkladığınızda tüm işlemler otomatik olarak yapılıcaktır. Extra birşey indirmenize vaya birşey yapmanıza gerek yok.
